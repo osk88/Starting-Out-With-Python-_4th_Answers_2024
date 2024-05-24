@@ -6,3 +6,19 @@ This repository contains solutions to the problems in the book Starting Out with
 Table of Contents
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The repository is organized into 13 folders, each containing the solutions for a specific chapter of the book. The solutions are written in Python 3 and tested using the VSCode IDE.
+
+Chapter	Title
+1				Test
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+
